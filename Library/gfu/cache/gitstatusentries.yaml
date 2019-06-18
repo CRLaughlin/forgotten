@@ -13,12 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-06-18T19:23:35.517-04:00
+  lastUpdatedAtString: 2019-06-18T19:56:52.942-04:00
   initializedAtString: 2019-06-18T18:47:51.860-04:00
   entries:
   - path: Library\gfu\cache\branches.yaml
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -37,6 +43,18 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\SourceAssetDB
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
     originalPath: 
     status: 3
     staged: 0

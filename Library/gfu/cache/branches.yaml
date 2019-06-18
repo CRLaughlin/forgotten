@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-06-18T19:23:46.550-04:00
+  lastUpdatedAtString: 2019-06-18T19:56:48.370-04:00
   initializedAtString: 2019-06-18T18:48:05.659-04:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/kevin
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -43,9 +45,15 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - kevin
       - master
     subKeyValues:
     - Values:
+      - name: kevin
+        remote:
+          name: origin
+          url: https://github.com/CRLaughlin/forgotten.git
+        trackingBranch: 
       - name: master
         remote:
           name: origin
