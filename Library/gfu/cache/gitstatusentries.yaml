@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-06-18T19:56:52.942-04:00
+  lastUpdatedAtString: 2019-06-18T19:58:24.120-04:00
   initializedAtString: 2019-06-18T18:47:51.860-04:00
   entries:
   - path: Library\gfu\cache\branches.yaml
@@ -26,7 +26,7 @@ MonoBehaviour:
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
   - path: Library\gfu\cache\gitlog.yaml
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlog.yaml
@@ -43,6 +43,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     status: 3
     staged: 0
