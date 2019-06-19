@@ -13,27 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-06-18T20:00:57.551-04:00
+  lastUpdatedAtString: 2019-06-18T20:02:39.180-04:00
   initializedAtString: 2019-06-18T20:00:56.488-04:00
   entries:
-  - path: Library\ArtifactDB
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\EditorInstance.json
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -64,6 +46,12 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
@@ -73,12 +61,6 @@ MonoBehaviour:
   - path: Library\SourceAssetDB
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\StateCache\Hierarchy\3921c0-mainStage.json
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\StateCache\Hierarchy\3921c0-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\3921c0-mainStage.json
     originalPath: 
     status: 3
     staged: 0
