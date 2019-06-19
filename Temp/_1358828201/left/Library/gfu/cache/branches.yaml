@@ -13,18 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-06-18T20:05:08.200-04:00
+  lastUpdatedAtString: 2019-06-18T20:02:35.697-04:00
   initializedAtString: 2019-06-18T20:01:29.626-04:00
   localBranches:
   - name: chris
-    tracking: origin/chris
-  - name: kevin
-    tracking: origin/kevin
+    tracking: 
   - name: master
     tracking: origin/master
   remoteBranches:
-  - name: origin/chris
-    tracking: '[None]'
   - name: origin/kevin
     tracking: '[None]'
   - name: origin/master
@@ -40,19 +36,13 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - chris
-    - kevin
     - master
     values:
     - name: chris
       remote:
-        name: origin
-        url: https://github.com/CRLaughlin/forgotten.git
-      trackingBranch: chris
-    - name: kevin
-      remote:
-        name: origin
-        url: https://github.com/CRLaughlin/forgotten.git
-      trackingBranch: kevin
+        name: 
+        url: 
+      trackingBranch: 
     - name: master
       remote:
         name: origin
@@ -63,16 +53,10 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - chris
       - kevin
       - master
     subKeyValues:
     - Values:
-      - name: chris
-        remote:
-          name: origin
-          url: https://github.com/CRLaughlin/forgotten.git
-        trackingBranch: 
       - name: kevin
         remote:
           name: origin

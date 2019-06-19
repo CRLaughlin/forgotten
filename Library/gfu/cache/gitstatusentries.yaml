@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-06-18T20:02:39.180-04:00
+  lastUpdatedAtString: 2019-06-18T20:07:02.963-04:00
   initializedAtString: 2019-06-18T20:00:56.488-04:00
   entries:
   - path: Library\gfu\cache\branches.yaml
@@ -46,12 +46,6 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
@@ -63,6 +57,84 @@ MonoBehaviour:
     projectPath: Library\SourceAssetDB
     originalPath: 
     status: 3
+    staged: 0
+  - path: Temp\_1358828201\left\Library\gfu\cache\branches.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\left\Library\gfu\cache\branches.yaml
+    projectPath: Temp\_1358828201\left\Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\left\Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\left\Library\gfu\cache\gitlocks.yaml
+    projectPath: Temp\_1358828201\left\Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\left\Library\gfu\cache\gitlog.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\left\Library\gfu\cache\gitlog.yaml
+    projectPath: Temp\_1358828201\left\Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\left\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\left\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Temp\_1358828201\left\Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\left\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\left\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Temp\_1358828201\left\Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\left\Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\left\Library\gfu\cache\repoinfo.yaml
+    projectPath: Temp\_1358828201\left\Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\left\Library\SourceAssetDB
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\left\Library\SourceAssetDB
+    projectPath: Temp\_1358828201\left\Library\SourceAssetDB
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\right\Library\gfu\cache\branches.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\right\Library\gfu\cache\branches.yaml
+    projectPath: Temp\_1358828201\right\Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\right\Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\right\Library\gfu\cache\gitlocks.yaml
+    projectPath: Temp\_1358828201\right\Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\right\Library\gfu\cache\gitlog.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\right\Library\gfu\cache\gitlog.yaml
+    projectPath: Temp\_1358828201\right\Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\right\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\right\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Temp\_1358828201\right\Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\right\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\right\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Temp\_1358828201\right\Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\_1358828201\right\Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\_1358828201\right\Library\gfu\cache\repoinfo.yaml
+    projectPath: Temp\_1358828201\right\Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
     staged: 0
   - path: Temp\UnityLockfile
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityLockfile

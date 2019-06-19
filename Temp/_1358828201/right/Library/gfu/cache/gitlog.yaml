@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-06-18T20:07:34.371-04:00
+  lastUpdatedAtString: 2019-06-18T20:04:00.521-04:00
   initializedAtString: 2019-06-18T20:01:32.511-04:00
   log:
   - commitID: 915f732fb69fdaec46aa2c3caaf7852525c3c297

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-06-18T20:05:08.179-04:00
+  lastUpdatedAtString: 2019-06-18T20:02:39.095-04:00
   initializedAtString: 2019-06-18T20:00:56.266-04:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: chris
-    tracking: origin/chris
+    tracking: 
   currentConfigBranch:
     name: chris
     remote:
-      name: origin
-      url: https://github.com/CRLaughlin/forgotten.git
-    trackingBranch: chris
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/CRLaughlin/forgotten.git
