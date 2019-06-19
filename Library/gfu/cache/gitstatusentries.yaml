@@ -13,12 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-06-18T19:23:35.517-04:00
-  initializedAtString: 2019-06-18T18:47:51.860-04:00
+  lastUpdatedAtString: 2019-06-18T20:02:39.180-04:00
+  initializedAtString: 2019-06-18T20:00:56.488-04:00
   entries:
   - path: Library\gfu\cache\branches.yaml
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -40,285 +46,27 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\SourceAssetDB
+    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Temp\UnityLockfile
     fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-03068908b91519a40b3a2f4568e6928a
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-03068908b91519a40b3a2f4568e6928a
-    projectPath: Temp\UnityTempFile-03068908b91519a40b3a2f4568e6928a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-161b3ea357ed48f47b56670441de8391
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-161b3ea357ed48f47b56670441de8391
-    projectPath: Temp\UnityTempFile-161b3ea357ed48f47b56670441de8391
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-21b3fb26a6c0d7245a32870aaea17563
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-21b3fb26a6c0d7245a32870aaea17563
-    projectPath: Temp\UnityTempFile-21b3fb26a6c0d7245a32870aaea17563
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-22c1987efb4536044a4f60e9f5d54dcb
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-22c1987efb4536044a4f60e9f5d54dcb
-    projectPath: Temp\UnityTempFile-22c1987efb4536044a4f60e9f5d54dcb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-2867640ebcb9a81458027eb7cea25e93
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-2867640ebcb9a81458027eb7cea25e93
-    projectPath: Temp\UnityTempFile-2867640ebcb9a81458027eb7cea25e93
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-32ec74bc9b2e22b448a122f59bc1176c
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-32ec74bc9b2e22b448a122f59bc1176c
-    projectPath: Temp\UnityTempFile-32ec74bc9b2e22b448a122f59bc1176c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-3f01c6ac41f28c042b2bb454be8d6628
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-3f01c6ac41f28c042b2bb454be8d6628
-    projectPath: Temp\UnityTempFile-3f01c6ac41f28c042b2bb454be8d6628
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-3f81591e028291c42a3f73fa76672fc6
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-3f81591e028291c42a3f73fa76672fc6
-    projectPath: Temp\UnityTempFile-3f81591e028291c42a3f73fa76672fc6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-45d597ff3fb900444a02421bed1470c7
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-45d597ff3fb900444a02421bed1470c7
-    projectPath: Temp\UnityTempFile-45d597ff3fb900444a02421bed1470c7
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-463b096ac62b92b409e365ef3db0e904
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-463b096ac62b92b409e365ef3db0e904
-    projectPath: Temp\UnityTempFile-463b096ac62b92b409e365ef3db0e904
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-4ae21053e1b886d41aa34d0cccd58d4e
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-4ae21053e1b886d41aa34d0cccd58d4e
-    projectPath: Temp\UnityTempFile-4ae21053e1b886d41aa34d0cccd58d4e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-4d2f1a1772fa9724882d3bef76d3b09e
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-4d2f1a1772fa9724882d3bef76d3b09e
-    projectPath: Temp\UnityTempFile-4d2f1a1772fa9724882d3bef76d3b09e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-55f5afe95f8cab14ab66790b15f76948
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-55f5afe95f8cab14ab66790b15f76948
-    projectPath: Temp\UnityTempFile-55f5afe95f8cab14ab66790b15f76948
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-57adaac26e00a5946baf90a5fb42eddc
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-57adaac26e00a5946baf90a5fb42eddc
-    projectPath: Temp\UnityTempFile-57adaac26e00a5946baf90a5fb42eddc
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-613231701dda68b41b972798061853c1
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-613231701dda68b41b972798061853c1
-    projectPath: Temp\UnityTempFile-613231701dda68b41b972798061853c1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-617db93631d002a488043f339d891d95
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-617db93631d002a488043f339d891d95
-    projectPath: Temp\UnityTempFile-617db93631d002a488043f339d891d95
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-625cbe2f94127a24ea05a8c527935bfe
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-625cbe2f94127a24ea05a8c527935bfe
-    projectPath: Temp\UnityTempFile-625cbe2f94127a24ea05a8c527935bfe
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-6d5af0f5ba585e74cb10caaf6bd5029e
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-6d5af0f5ba585e74cb10caaf6bd5029e
-    projectPath: Temp\UnityTempFile-6d5af0f5ba585e74cb10caaf6bd5029e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-791b1d40d60bcb24c95a39819c3a153b
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-791b1d40d60bcb24c95a39819c3a153b
-    projectPath: Temp\UnityTempFile-791b1d40d60bcb24c95a39819c3a153b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7a28c41ea4325e04f8c419807da396d7
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-7a28c41ea4325e04f8c419807da396d7
-    projectPath: Temp\UnityTempFile-7a28c41ea4325e04f8c419807da396d7
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7cabc8615b2f5a4479a8da342cf2f88d
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-7cabc8615b2f5a4479a8da342cf2f88d
-    projectPath: Temp\UnityTempFile-7cabc8615b2f5a4479a8da342cf2f88d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7d84976588b45594ea9e0200791f95a9
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-7d84976588b45594ea9e0200791f95a9
-    projectPath: Temp\UnityTempFile-7d84976588b45594ea9e0200791f95a9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7e2ec66f7651ecf4ca4cd9054ba904d9
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-7e2ec66f7651ecf4ca4cd9054ba904d9
-    projectPath: Temp\UnityTempFile-7e2ec66f7651ecf4ca4cd9054ba904d9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-809821d399d228c47b2e51bbb9277471
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-809821d399d228c47b2e51bbb9277471
-    projectPath: Temp\UnityTempFile-809821d399d228c47b2e51bbb9277471
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-952b301f754688c46a63d8f4c9d39a0c
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-952b301f754688c46a63d8f4c9d39a0c
-    projectPath: Temp\UnityTempFile-952b301f754688c46a63d8f4c9d39a0c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-98f0fff7c5fadcb48b1e1dda38973fa0
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-98f0fff7c5fadcb48b1e1dda38973fa0
-    projectPath: Temp\UnityTempFile-98f0fff7c5fadcb48b1e1dda38973fa0
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-98f3d50b92fc26440adf951539dcc010
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-98f3d50b92fc26440adf951539dcc010
-    projectPath: Temp\UnityTempFile-98f3d50b92fc26440adf951539dcc010
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-a0fc7400971e4414bb1b2e15bafbe3e9
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-a0fc7400971e4414bb1b2e15bafbe3e9
-    projectPath: Temp\UnityTempFile-a0fc7400971e4414bb1b2e15bafbe3e9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-a5a5d6153172fdf43addd81233f6374a
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-a5a5d6153172fdf43addd81233f6374a
-    projectPath: Temp\UnityTempFile-a5a5d6153172fdf43addd81233f6374a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-ace8a7820da2e094da6b9c12b5f7e298
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-ace8a7820da2e094da6b9c12b5f7e298
-    projectPath: Temp\UnityTempFile-ace8a7820da2e094da6b9c12b5f7e298
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-b1815606faec10a48ac2d86168ef5d2a
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-b1815606faec10a48ac2d86168ef5d2a
-    projectPath: Temp\UnityTempFile-b1815606faec10a48ac2d86168ef5d2a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-be7944d3475fc7443be42f8b0c5b6016
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-be7944d3475fc7443be42f8b0c5b6016
-    projectPath: Temp\UnityTempFile-be7944d3475fc7443be42f8b0c5b6016
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-bfc39965488a53249af2baefb13f8f8e
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-bfc39965488a53249af2baefb13f8f8e
-    projectPath: Temp\UnityTempFile-bfc39965488a53249af2baefb13f8f8e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-c7f60cec8ce271c4d8fb5b30887ef028
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-c7f60cec8ce271c4d8fb5b30887ef028
-    projectPath: Temp\UnityTempFile-c7f60cec8ce271c4d8fb5b30887ef028
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-c947383ae0e758549b97041d63661dbf
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-c947383ae0e758549b97041d63661dbf
-    projectPath: Temp\UnityTempFile-c947383ae0e758549b97041d63661dbf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-cb7df39c9376294499f88846fabed18b
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-cb7df39c9376294499f88846fabed18b
-    projectPath: Temp\UnityTempFile-cb7df39c9376294499f88846fabed18b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-d418337df2290cc4e91a818ef734311a
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-d418337df2290cc4e91a818ef734311a
-    projectPath: Temp\UnityTempFile-d418337df2290cc4e91a818ef734311a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-dacd2721a7db79e45b895ecd71d7535c
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-dacd2721a7db79e45b895ecd71d7535c
-    projectPath: Temp\UnityTempFile-dacd2721a7db79e45b895ecd71d7535c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-dbe7560f0c1ef0b4fa322ca8c490b5a2
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-dbe7560f0c1ef0b4fa322ca8c490b5a2
-    projectPath: Temp\UnityTempFile-dbe7560f0c1ef0b4fa322ca8c490b5a2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-dc011771fc0c8104ea9930642a506d5b
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-dc011771fc0c8104ea9930642a506d5b
-    projectPath: Temp\UnityTempFile-dc011771fc0c8104ea9930642a506d5b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-e32997069e38f1f41a373ba87c089be1
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-e32997069e38f1f41a373ba87c089be1
-    projectPath: Temp\UnityTempFile-e32997069e38f1f41a373ba87c089be1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-e8a89b3809d7dd14c96c29c72658dcc7
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-e8a89b3809d7dd14c96c29c72658dcc7
-    projectPath: Temp\UnityTempFile-e8a89b3809d7dd14c96c29c72658dcc7
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-eaadc26507350b047b9ff7d651319943
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-eaadc26507350b047b9ff7d651319943
-    projectPath: Temp\UnityTempFile-eaadc26507350b047b9ff7d651319943
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-ee2c158305c47304b80c0b52e7f0952e
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-ee2c158305c47304b80c0b52e7f0952e
-    projectPath: Temp\UnityTempFile-ee2c158305c47304b80c0b52e7f0952e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-f83af80be786b044d8b07a6b857b6ab2
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-f83af80be786b044d8b07a6b857b6ab2
-    projectPath: Temp\UnityTempFile-f83af80be786b044d8b07a6b857b6ab2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-fcd60b779df707143bc6cdc79ce6bb62
-    fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Temp\UnityTempFile-fcd60b779df707143bc6cdc79ce6bb62
-    projectPath: Temp\UnityTempFile-fcd60b779df707143bc6cdc79ce6bb62
     originalPath: 
     status: 1
     staged: 0

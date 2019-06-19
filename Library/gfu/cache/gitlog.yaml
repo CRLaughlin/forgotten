@@ -13,9 +13,237 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-06-18T19:23:46.962-04:00
-  initializedAtString: 2019-06-18T18:47:57.186-04:00
+  lastUpdatedAtString: 2019-06-18T20:02:39.495-04:00
+  initializedAtString: 2019-06-18T20:01:32.511-04:00
   log:
+  - commitID: e218886374c54e088c2d7ff76b8cba6226c68d9c
+    mergeA: 
+    mergeB: 
+    authorName: Christopher Laughlin
+    authorEmail: Chrisgator11@live.com
+    commitEmail: Chrisgator11@live.com
+    commitName: Christopher Laughlin
+    summary: ugh
+    description: 
+    timeString: 2019-06-18T20:01:28.000-04:00
+    commitTimeString: 2019-06-18T20:01:28.000-04:00
+    changes:
+    - path: Library\ArtifactDB
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\EditorInstance.json
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\SourceAssetDB
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\Hierarchy\3921c0-mainStage.json
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\StateCache\Hierarchy\3921c0-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\3921c0-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a6f2023769389e16f519cbc7b307e3c13ed27af5
+    mergeA: 
+    mergeB: 
+    authorName: Christopher Laughlin
+    authorEmail: Chrisgator11@live.com
+    commitEmail: Chrisgator11@live.com
+    commitName: Christopher Laughlin
+    summary: g
+    description: 
+    timeString: 2019-06-18T19:59:07.000-04:00
+    commitTimeString: 2019-06-18T19:59:07.000-04:00
+    changes:
+    - path: Library\SourceAssetDB
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 47ac17b632404cf854674339fc4f0948ba679cf8
+    mergeA: 
+    mergeB: 
+    authorName: Christopher Laughlin
+    authorEmail: Chrisgator11@live.com
+    commitEmail: Chrisgator11@live.com
+    commitName: Christopher Laughlin
+    summary: f
+    description: 
+    timeString: 2019-06-18T19:57:37.000-04:00
+    commitTimeString: 2019-06-18T19:57:37.000-04:00
+    changes:
+    - path: Library\SourceAssetDB
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 5960708f4b994be81916ea0df8ceff620eff7971
+    mergeA: 
+    mergeB: 
+    authorName: Christopher Laughlin
+    authorEmail: Chrisgator11@live.com
+    commitEmail: Chrisgator11@live.com
+    commitName: Christopher Laughlin
+    summary: d
+    description: d
+    timeString: 2019-06-18T19:24:17.000-04:00
+    commitTimeString: 2019-06-18T19:24:17.000-04:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Users\Christopher\Desktop\The Forgotten Place\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 842987f92fe82ae7bbbd4678d2540a79b5ae37da
     mergeA: 
     mergeB: 
